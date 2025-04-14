@@ -1,14 +1,14 @@
-businessName: Service Master
+businessName: White & White Construction
 logo:
-  logo: /src/assets/images/general/logo/logo.png
-  favicon: /src/assets/images/general/logo/favicon.png
-  footerLogo: /src/assets/images/general/logo/footerLogo.png
+  logo: /src/assets/images/general/logo/logo.webp
+  favicon: /src/assets/images/general/logo/favicon.webp
+  footerLogo: /src/assets/images/general/logo/footerLogo.webp
 primaryColor: 69, 153, 168
 secondaryColor: 47, 46, 46
 tertiaryColor: 69, 153, 168
 backgroundColor: "109,88,249\t"
 contactInformation:
   email: hello@golumin.io
-  phone: '2695326248'
-  phoneDisplay: 269-532-6248
+  phone: '9494122123'
+  phoneDisplay: 949-412-2123
 analyticsScripts: []
