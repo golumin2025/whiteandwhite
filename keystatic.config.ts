@@ -13,10 +13,10 @@ export default config({
     kind: import.meta.env.DEV ? "local" : "cloud",
   },
   cloud: {
-    project: "service-master/marketing",
+    project: "white-and-white-v2/marketing",
   },
   ui: {
-    brand: { name: "Service Master CMS" },
+    brand: { name: "White & White CMS" },
   },
   collections: {
     blogs: collection(blogs),
