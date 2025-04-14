@@ -1,5 +1,5 @@
 navitems:
-  - title: About Box Protect
+  - title: About White & White Constructions
     links:
       - label: About Us
         link: /about
@@ -7,27 +7,25 @@ navitems:
         link: /contact
   - title: Services
     links:
-      - label: Moving
-        link: /moving
-      - label: Storage
-        link: /storage
+      - label: ADU
+        link: /additional-dwelling-unit
   - title: Resources
     links:
-      - label: FAQs
-        link: '#'
-      - label: Locations
-        link: /locations
+      - label: Blog
+        link: /blog
 socialLinks:
   - label: Facebook
     icon: /src/assets/images/social/socialLinks/0/icon.png
-    link: https://www.facebook.com/profile.php?id=61558039267678
+    link: https://www.facebook.com/whiteandwhitesanclemente/
   - label: Instagram
     icon: /src/assets/images/social/socialLinks/1/icon.png
-    link: https://www.instagram.com/boxprotectstorage/
+    link: https://www.instagram.com/whiteconstruct/
 legal:
   - label: Web Accessibility
     link: /web-accessibility
   - label: Terms & Conditions
-    link: /terms-and-conditions
+    link: /terms-conditions
   - label: Privacy Policy
     link: /privacy-policy
+  - label: California Privacy Notice
+    link: /california-privacy-notice
