@@ -1,15 +1,45 @@
 menuItems:
-  - name: Moving
-    link: /moving
+  - name: Services
+    link: /services
+    subMenu:
+      - name: Additions
+        link: /additions
+      - name: ADU
+        link: /accessory-dwelling-unit
+      - name: Carpentry
+        link: /carpentry
+      - name: Custom Carpentry
+        link: /custom-carpentry
+      - name: Custom Homes
+        link: /custom-homes
+      - name: Decks & Patios
+        link: /decks-patios
+      - name: Design Build
+        link: /design-build
+      - name: Door & Window Installation
+        link: /door-window-installation
+      - name: Finish Carpentry
+        link: /finish-carpentry
+      - name: Foundations
+        link: /foundations
+      - name: Framing
+        link: /framing
+      - name: Home Improvements
+        link: /home-improvements
+      - name: Remodels
+        link: /remodels
+      - name: Renovations
+        link: /renovations
+      - name: Siding
+        link: /siding
+  - name: ADU
+    link: /accessory-dwelling-unit
     subMenu: []
-  - name: Storage
-    link: /storage
-    subMenu: []
-  - name: Locations
-    link: /locations
-    subMenu: []
-  - name: Business
-    link: /commercial-business
+  - name: Steel Building Installation
+    link: /steel-building-installation
     subMenu: []
 button:
-  discriminant: none
+  discriminant: button
+  value:
+    label: 949-412-2123
+    link: 949-412-2123
