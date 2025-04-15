@@ -10,123 +10,94 @@ blocks:
     value:
       sliderImages:
         - image: /src/assets/images/home/blocks/0/value/sliderImages/0/image.jpg
-          title: FAST, NO HASSLE SERVICES
-          description: BoxProtect Serves the Raleigh/Durham Triangle & Surrounding Counties
-  - discriminant: twoColWithTabs
+          title: Your House Is More Than A House.
+          description: It’s an investment, it’s a future, an inheritance. It's a home.
+  - discriminant: twoCol
     value:
-      heading: How It Works
-      tabs:
-        - title: Moving
-          steps:
-            - title: Order Your Box
-              description: We deliver portable storage for your content to you.
-            - title: Pack Your Content
-              description: You pack the content at your own pace.  Rental is monthly.
-            - title: Move it
-              description: >
-                Tell us when you're done and we can move your box where you need
-                it.
-        - title: Storage
-          steps:
-            - title: Order Your Box
-              description: We deliver portable storage for your content to you.
-            - title: Pack Your Content
-              description: You pack the content at your own pace.  Rental is monthly.
-            - title: Store Onsite
-              description: >-
-                Store onsite or we can move your box where you need it.  Tell us
-                when you're done.
-  - discriminant: singleImage
+      heading: Welcome to White & White Construction
+      image: /src/assets/images/home/blocks/1/value/image.jpg
+      altTag: bathroom remodel
+      imagePlacement: left
+      imageSize: h-[500px]
+      description: >
+        We are a family-owned and operated team, located in San Clemente,
+        California, catering to local homeowners seeking to increase the value
+        of their home.
+      button: {}
+      colors: '#0069e5/5'
+  - discriminant: serviceAreas
     value:
-      image: /src/assets/images/home/blocks/2/value/image.jpg
-      altTag: Shipping container details and dimensions
-      mobile: /images/home/blocks/2/value/mobile.jpg
-  - discriminant: cards
-    value:
-      title: ABOUT US
-      numberOfColumns: '2'
-      cards:
-        - image: /src/assets/images/home/blocks/3/value/cards/0/image.jpg
-          title: Our Boxes
-          description: >
-            Top quality steel containers with non-marring rubber feet &
-            complimentary padlock.&nbsp; All boxes are 8x16'.
-        - image: /src/assets/images/home/blocks/3/value/cards/1/image.avif
-          title: Our Mule System
-          description: >
-            Containers can be placed in hard to reach areas of (almost) any
-            ground cover with our 0 point turn mule system.
+      title: Services
+      linkableLocations: true
+      locations:
+        - title: Additions
+          link: /additions
+        - title: ADU
+          link: /accessory-dwelling-unit
+        - title: Carpentry
+          link: /carpentry
+        - title: Custom Carpentry
+          link: /custom-carpentry
+        - title: Custom Homes
+          link: /custom-homes
+        - title: Decks & Patios
+          link: /decks-patios
+        - title: Design Build
+          link: /design-build
+        - title: Door & Window Installation
+          link: /door-window-installation
+        - title: Finish Carpentry
+          link: /finish-carpentry
+        - title: Foundations
+          link: /foundations
+        - title: Framing
+          link: /framing
+        - title: Home Improvements
+          link: /home-improvements
+        - title: Remodels
+          link: /remodels
+        - title: Renovations
+          link: /renovations
+        - title: Siding
+          link: /siding
+      colTwoTitle: Submit a Quote! or Call Us!
+      button:
+        title: Get a Quote Today
+        link: /#quote-form
   - discriminant: featuredImage
     value:
-      image: /src/assets/images/home/blocks/4/value/image.avif
-      altTag: Owner standing in front of an open container
+      image: /src/assets/images/home/blocks/3/value/image.jpg
+      altTag: Remodels & Additions
       imagePosition: object-center
       imagePositionDesktop: md:object-top
-      title: WHO WE ARE
+      title: Remodels & Additions
       description: >-
-        We are the Triangle's portable storage company for commercial clients:
-        restoration, pack outs, builders, property managers and investors. We
-        offer 8x16' metal containers for onsite storage of various content.  It
-        is our promise that working with BoxProtect means fast service and easy
-        ordering.  Once clients are setup in our system, they can text or call
-        us directly to order storage boxes at a moment's notice.  Our goal is to
-        be flexible and make your life easy.
+        The best way to increase the value of your home is improving it and this
+        is where you can begin!
   - discriminant: masonaryGallery
     value:
       title: Our Images
       images:
-        - image: /src/assets/images/home/blocks/5/value/images/0/image.jpg
-          altTag: Box Protect portable storage
-        - image: /src/assets/images/home/blocks/5/value/images/1/image.jpg
-          altTag: Box Protect portable storage moving
-        - image: /src/assets/images/home/blocks/5/value/images/2/image.jpg
-          altTag: Box Protect portable storage loading
-        - image: /src/assets/images/home/blocks/5/value/images/3/image.jpg
-          altTag: Box Protect portable storage open container
-        - image: /src/assets/images/home/blocks/5/value/images/4/image.jpg
-          altTag: Box Protect portable storage loading on driveway
+        - image: /src/assets/images/home/blocks/4/value/images/0/image.webp
+          altTag: Living room remodel
+        - image: /src/assets/images/home/blocks/4/value/images/1/image.webp
+          altTag: Living room remodel with fire place and stairs
+        - image: /src/assets/images/home/blocks/4/value/images/2/image.webp
+          altTag: Kitchen remodel
+        - image: /src/assets/images/home/blocks/4/value/images/3/image.webp
+          altTag: Exterior remodel
+        - image: /src/assets/images/home/blocks/4/value/images/4/image.webp
+          altTag: Bathroom remodel
+        - image: /src/assets/images/home/blocks/4/value/images/5/image.webp
+          altTag: Accessory Dwelling Unit
+        - image: /src/assets/images/home/blocks/4/value/images/6/image.webp
+          altTag: Remodel and Additions
+        - image: /src/assets/images/home/blocks/4/value/images/7/image.webp
+          altTag: Stairway remodel
   - discriminant: reviewsSlider
     value:
       title: Hear from our customers
       logos: []
-  - discriminant: serviceAreas
-    value:
-      title: 'NC Locations Served Include But Not Limited To:'
-      sectionTitle: Locations
-      linkableLocations: false
-      locations:
-        - title: Raleigh
-          link: link 1
-        - title: Cary
-          link: link 2
-        - title: Apex
-          link: link 3
-        - title: Sanford
-          link: link 3
-        - title: Carrboro
-          link: link 5
-        - title: Graham
-          link: link 6
-        - title: ' Durham'
-          link: link 7
-        - title: ' Hillsborough'
-          link: link 8
-        - title: ' Morrisville'
-          link: link 9
-        - title: ' Holly Springs'
-          link: link 10
-        - title: ' Efland'
-          link: link 11
-        - title: ' Chapel Hill'
-          link: link 12
-        - title: ' Moncure'
-          link: link 13
-        - title: Mebane
-          link: link 14
-      colTwoTitle: Submit a Quote! or Call Us!
-      button:
-        title: Get a Quote Today
-        link: '#'
   - discriminant: faqs
     value:
       title: Frequently Asked Questions
