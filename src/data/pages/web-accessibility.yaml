@@ -1,41 +1,52 @@
 title: Web Accessibility
 seoData:
-  seoTitle: BoxProtect Website Accessibility Statement
+  seoTitle: Website Accessibility | White & White Construction
   seoDescription: >-
-    BoxProtect LLC is committed to website accessibility for all users. Learn
-    about our efforts and how to report issues or request assistance.
+    White & White Construction Inc. is committed to website accessibility for
+    all users. Learn about our efforts and how to report accessibility issues.
 blocks:
   - discriminant: singleHero
     value:
-      title: BoxProtect's Web Accessibility
+      title: White & White's Web Accessibility
   - discriminant: twoCol
     value:
       heading: Website Accessibility
       altTag: Website Accessibility
       imagePlacement: left
+      imageSize: h-[500px]
       description: >
-        ```
+        \**Accessibility Statement for White & White Construction Inc.**\
 
-        BoxProtect LLC is committed to ensuring our website is accessible to all
-        users, including individuals with disabilities. We continuously work to
-        improve accessibility and usability across our site.
+        White & White Construction Inc. is committed to ensuring our website is
+        accessible to all users, including individuals with disabilities. We
+        continuously work to improve accessibility and usability across our
+        site, adhering to the Web Content Accessibility Guidelines (WCAG) 2.1
+        Level AA standards where feasible.\
 
+        \
 
         We welcome your feedback on these efforts. If you experience any
         difficulty accessing, using, or navigating our website, please contact
-        us at admin@boxprotect.com. When reaching out, please provide:
+        us at 949.412.2123. When reaching out, please provide:\
 
-        • The URL of the page where you encountered the issue
+        \
 
-        • A brief description of the accessibility concern
+        \* The URL of the page where you encountered the issue\
 
-        • The type of assistive technology or browser you were using
+        \* A brief description of the accessibility concern\
 
+        \* The type of assistive technology or browser you were using\
+
+        \
 
         If you are unable to access any of our services online, please call us
-        at 1-800-BOX-3333 or email us at admin@boxprotect.com, and we will work
-        to provide an alternative way to assist you.
+        at 949.412.2123, and we will work to provide an alternative way to
+        assist you.\
 
-        ```
+        \
+
+        We strive to make our website a positive experience for everyone, and we
+        appreciate your patience and understanding as we continue to make
+        improvements.
       button: {}
       colors: '#0069e5/5'
