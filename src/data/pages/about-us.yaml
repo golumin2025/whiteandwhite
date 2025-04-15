@@ -36,3 +36,10 @@ blocks:
         courtesy you deserve.
       button: {}
       colors: '#0069e5/5'
+  - discriminant: featuredImage
+    value:
+      image: /src/assets/images/about-us/blocks/2/value/image.webp
+      altTag: Our Team
+      imagePosition: object-center
+      imagePositionDesktop: md:object-center
+      title: Our Team
