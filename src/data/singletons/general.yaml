@@ -3,10 +3,10 @@ logo:
   logo: /src/assets/images/general/logo/logo.webp
   favicon: /src/assets/images/general/logo/favicon.webp
   footerLogo: /src/assets/images/general/logo/footerLogo.webp
-primaryColor: 69, 153, 168
+primaryColor: 255, 215, 0
 secondaryColor: 47, 46, 46
-tertiaryColor: 69, 153, 168
-backgroundColor: "109,88,249\t"
+tertiaryColor: 255, 215, 0
+backgroundColor: 255, 215, 0
 contactInformation:
   email: hello@golumin.io
   phone: '9494122123'
