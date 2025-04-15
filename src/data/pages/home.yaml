@@ -98,34 +98,3 @@ blocks:
     value:
       title: Hear from our customers
       logos: []
-  - discriminant: faqs
-    value:
-      title: Frequently Asked Questions
-      faqs:
-        - question: Is Portable Storage for me?
-          answer: >
-            Renovating or selling your home? Do you need space for a
-            restoration? Maybe you are downsizing and want to keep certain
-            items? These are just a few ways Easy Mobile Storage can help your
-            self-storage needs. Onsite contractor storage, small business
-            storage, remodel/ remediation storage, and special event storage are
-            all excellent ways to use our containers for extra space.
-        - question: What fits in an 8' x 16' Box Protect Box Container?
-          answer: >
-            You can ideally fill 3-4 rooms or a 1 bedroom apartment into our Box
-            Protect Box 8’ x 16’ container.&nbsp;
-        - question: How Long Can I Keep the Container at My House?
-          answer: >
-            Once we drop your container off, you can take your time packing it
-            up. Unlike rental trucks, there won't be any kind of rush to load
-            your storage container. So, take a week, a month, or however long
-            you need. We won't mind.
-        - question: How soon can a container be delivered?
-          answer: >
-            We try to have your storage container delivered within 24-48 hours
-            or schedule a delivery date that works best for you.
-        - question: How Does Pricing Work?
-          answer: >
-            There is a monthly rental fee with your&nbsp;Box
-            Protect&nbsp;container, which bills monthly on the date your
-            container is delivered.&nbsp;
