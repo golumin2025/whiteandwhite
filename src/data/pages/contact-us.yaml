@@ -1,0 +1,32 @@
+title: Contact Us
+seoData:
+  seoTitle: Contact Us | White & White Construction - San Clemente
+  seoDescription: >-
+    Contact White & White Construction Inc. in San Clemente, CA for your home
+    additions, remodels, custom homes, and more. Call us or visit our office.
+blocks:
+  - discriminant: singleHero
+    value:
+      bgImage: /src/assets/images/contact-us/blocks/0/value/bgImage.jpg
+      title: Contact White & White Construction
+  - discriminant: twoCol
+    value:
+      heading: Contact Us
+      image: /src/assets/images/contact-us/blocks/1/value/image.webp
+      altTag: Contact Us
+      imagePlacement: right
+      imageSize: h-[500px]
+      description: |
+        ##### We can’t wait to hear about your next project or remodel.
+
+        #### **Contact**
+
+        [949.412.2123](949.412.2123)
+
+        White & White Construction Inc.
+
+        2915 Calle Heraldo, San Clemente, CA 92673
+
+        **Contractor #B452379**
+      button: {}
+      colors: '#0069e5/5'
