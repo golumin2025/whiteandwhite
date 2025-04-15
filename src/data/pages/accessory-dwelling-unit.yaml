@@ -116,23 +116,31 @@ blocks:
       title: Start Your ADU Project Today!
       numberOfColumns: '4'
       cards:
-        - title: Fully Licensed, Certified & Insured
+        - image: >-
+            /src/assets/images/accessory-dwelling-unit/blocks/5/value/cards/0/image.webp
+          title: Fully Licensed, Certified & Insured
           description: >
             Your home is one of your biggest investments—and we treat it that
             way. Our team is fully licensed, bonded, and insured, giving you
             peace of mind that your project is in expert hands from start to
             finish.
-        - title: Local Experts, You Can Trust
-          description: >
-            We're proud to be a locally owned and operated business right here
-            in Orange County. Because we live and work in the same community, we
-            go the extra mile to take care of our neighbors.
-        - title: Honest, Upfront Pricing
+        - image: >-
+            /src/assets/images/accessory-dwelling-unit/blocks/5/value/cards/1/image.webp
+          title: Honest, Upfront Pricing
           description: >
             We believe great customer service starts with clear communication.
             That’s why we provide straightforward pricing before the work
             begins—so you’ll never be caught off guard by unexpected costs.
-        - title: Quality Craftsmanship, Every Step of the Way
+        - image: >-
+            /src/assets/images/accessory-dwelling-unit/blocks/5/value/cards/2/image.webp
+          title: Local Experts, You Can Trust
+          description: >
+            We're proud to be a locally owned and operated business right here
+            in Orange County. Because we live and work in the same community, we
+            go the extra mile to take care of our neighbors.
+        - image: >-
+            /src/assets/images/accessory-dwelling-unit/blocks/5/value/cards/3/image.webp
+          title: Quality Craftsmanship, Every Step of the Way
           description: >
             At VCI Builds, we believe your home improvement experience should be
             as solid as the work itself. That’s why we’ve built our reputation
