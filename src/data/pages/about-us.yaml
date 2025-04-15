@@ -1,0 +1,38 @@
+title: Who We Are
+seoData:
+  seoTitle: About Us | White & White Construction - San Clemente
+  seoDescription: >-
+    Learn about White & White Construction Inc., a trusted construction company
+    serving San Clemente, CA, and surrounding areas. Discover our history,
+    values, and expertise.
+blocks:
+  - discriminant: singleHero
+    value:
+      bgImage: /src/assets/images/about-us/blocks/0/value/bgImage.jpg
+      title: About White & White Construction
+  - discriminant: twoCol
+    value:
+      heading: Why Choose Us
+      image: /src/assets/images/about-us/blocks/1/value/image.webp
+      altTag: About White & White Construction
+      imagePlacement: right
+      imageSize: h-[500px]
+      description: >
+        #### **Since 1984, our family has been licensed contractors**
+
+
+        Experienced in all aspects of residential construction, from planning to
+        breaking ground to turning the key, we are intent on ensuring that your
+        project is exactly what you had in mind. We do this by making quality
+        our highest priority and holding ourselves to a higher standard. If we
+        make a mistake, we we will fix it with great urgency and attention.\
+
+        \
+
+        We are out to prove we are the best contractor in the San Clemente area!
+        When you hire a contractor you are inviting those workers into your home
+        or building. Ours is a team of polite, hardworking, upstanding citizens.
+        We will treat you, your family, and your property with the respect and
+        courtesy you deserve.
+      button: {}
+      colors: '#0069e5/5'
