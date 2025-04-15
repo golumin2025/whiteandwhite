@@ -1,0 +1,96 @@
+title: Services
+seoData:
+  seoTitle: Construction Services | White & White - San Clemente
+  seoDescription: >-
+    Explore the construction services offered by White & White Construction Inc.
+    in San Clemente, CA. We specialize in additions, custom homes, remodels,
+    decks, patios, and more.
+blocks:
+  - discriminant: singleHero
+    value:
+      bgImage: /src/assets/images/services/blocks/0/value/bgImage.jpg
+      title: Construction Services
+  - discriminant: twoCol
+    value:
+      heading: Expert Construction Services
+      image: /src/assets/images/services/blocks/1/value/image.webp
+      altTag: Remodel and additions
+      imagePlacement: left
+      imageSize: h-[500px]
+      description: >
+        ## **Family Owned & Operated in San Clemente, California**
+
+
+        Over the past four decades, White & White Construction has been
+        continually involved in a wide variety of construction projects, from
+        small one-story homes to large estates and apartment buildings. Through
+        the word of our gratified customers, we have built a first-rate
+        reputation on the caliber of our expertise. We hire only trusted and
+        reputable sub-contractors which we have longstanding relationships with.
+        We do this so that we can meet, and often exceed, the excellent
+        standards we hold ourselves to.
+      button: {}
+      colors: '#0069e5/5'
+  - discriminant: serviceAreas
+    value:
+      title: Our Construction Services
+      linkableLocations: true
+      locations:
+        - title: Additions
+          link: /additions
+        - title: ADU
+          link: /accessory-dwelling-unit
+        - title: Carpentry
+          link: /carpentry
+        - title: Custom Carpentry
+          link: /custom-carpentry
+        - title: Custom Homes
+          link: /custom-homes
+        - title: Decks & Patios
+          link: /decks-patios
+        - title: Design Build
+          link: /design-build
+        - title: Door & Window Installation
+          link: /door-window-installation
+        - title: Finish Carpentry
+          link: /finish-carpentry
+        - title: Foundations
+          link: /foundations
+        - title: Framing
+          link: /framing
+        - title: Home Improvements
+          link: /home-improvements
+        - title: Remodels
+          link: /remodels
+        - title: Renovations
+          link: /renovations
+        - title: Siding
+          link: /siding
+      colTwoTitle: Submit a Quote! or Call Us!
+      button:
+        title: Get a Quote Today
+        link: /#quote-form
+  - discriminant: masonaryGallery
+    value:
+      title: Our Images
+      images:
+        - image: /src/assets/images/services/blocks/3/value/images/0/image.webp
+          altTag: Living room remodel
+        - image: /src/assets/images/services/blocks/3/value/images/1/image.webp
+          altTag: Living room remodel with fire place and stairs
+        - image: /src/assets/images/services/blocks/3/value/images/2/image.webp
+          altTag: Kitchen remodel
+        - image: /src/assets/images/services/blocks/3/value/images/3/image.webp
+          altTag: Exterior remodel
+        - image: /src/assets/images/services/blocks/3/value/images/4/image.webp
+          altTag: Bathroom remodel
+        - image: /src/assets/images/services/blocks/3/value/images/5/image.webp
+          altTag: Accessory Dwelling Unit
+        - image: /src/assets/images/services/blocks/3/value/images/6/image.webp
+          altTag: Remodel and Additions
+        - image: /src/assets/images/services/blocks/3/value/images/7/image.webp
+          altTag: Stairway remodel
+  - discriminant: reviewsSlider
+    value:
+      title: Hear from our customers
+      logos: []
