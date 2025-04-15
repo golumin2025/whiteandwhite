@@ -4,8 +4,8 @@ logo:
   favicon: /src/assets/images/general/logo/favicon.webp
   footerLogo: /src/assets/images/general/logo/footerLogo.webp
 primaryColor: "238,178,61\t"
-secondaryColor: 255, 215, 0
-tertiaryColor: 255, 215, 0
+secondaryColor: 90, 90, 90
+tertiaryColor: 0, 0, 0
 backgroundColor: 255, 215, 0
 contactInformation:
   email: hello@golumin.io
