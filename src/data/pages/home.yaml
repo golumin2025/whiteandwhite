@@ -12,19 +12,6 @@ blocks:
         - image: /src/assets/images/home/blocks/0/value/sliderImages/0/image.jpg
           title: Your House Is More Than A House.
           description: It’s an investment, it’s a future, an inheritance. It's a home.
-  - discriminant: twoCol
-    value:
-      heading: Welcome to White & White Construction
-      image: /src/assets/images/home/blocks/1/value/image.jpg
-      altTag: bathroom remodel
-      imagePlacement: left
-      imageSize: h-[500px]
-      description: >
-        We are a family-owned and operated team, located in San Clemente,
-        California, catering to local homeowners seeking to increase the value
-        of their home.
-      button: {}
-      colors: '#0069e5/5'
   - discriminant: serviceAreas
     value:
       title: Services
@@ -64,6 +51,26 @@ blocks:
       button:
         title: Get a Quote Today
         link: /#quote-form
+  - discriminant: twoCol
+    value:
+      heading: Welcome to White & White Construction
+      image: /src/assets/images/home/blocks/2/value/image.jpg
+      altTag: bathroom remodel
+      imagePlacement: left
+      imageSize: h-[500px]
+      description: >
+        We are a family-owned and operated team, located in San Clemente,
+        California, catering to local homeowners seeking to increase the value
+        of their home.
+
+
+        Specializing In:
+
+
+        Foundations, Door and Window Installation, Framing (rough carpentry),
+        Siding and Finish Carpentry.
+      button: {}
+      colors: '#0069e5/5'
   - discriminant: featuredImage
     value:
       image: /src/assets/images/home/blocks/3/value/image.jpg
@@ -76,23 +83,33 @@ blocks:
         is where you can begin!
   - discriminant: masonaryGallery
     value:
-      title: Our Images
+      title: Remodels, Additions & Custom Homes
       images:
         - image: /src/assets/images/home/blocks/4/value/images/0/image.webp
-          altTag: Living room remodel
+          altTag: Custom homes 1
         - image: /src/assets/images/home/blocks/4/value/images/1/image.webp
-          altTag: Living room remodel with fire place and stairs
+          altTag: Living room remodel
         - image: /src/assets/images/home/blocks/4/value/images/2/image.webp
-          altTag: Kitchen remodel
+          altTag: Custom Homes 2
         - image: /src/assets/images/home/blocks/4/value/images/3/image.webp
-          altTag: Exterior remodel
+          altTag: Living room remodel with fire place and stairs
         - image: /src/assets/images/home/blocks/4/value/images/4/image.webp
-          altTag: Bathroom remodel
+          altTag: Custom homes 3
         - image: /src/assets/images/home/blocks/4/value/images/5/image.webp
-          altTag: Accessory Dwelling Unit
+          altTag: Kitchen remodel
         - image: /src/assets/images/home/blocks/4/value/images/6/image.webp
-          altTag: Remodel and Additions
+          altTag: Custom Homes 4
         - image: /src/assets/images/home/blocks/4/value/images/7/image.webp
+          altTag: Exterior remodel
+        - image: /src/assets/images/home/blocks/4/value/images/8/image.webp
+          altTag: Custom Homes 7
+        - image: /src/assets/images/home/blocks/4/value/images/9/image.webp
+          altTag: Bathroom remodel
+        - image: /src/assets/images/home/blocks/4/value/images/10/image.webp
+          altTag: Accessory Dwelling Unit
+        - image: /src/assets/images/home/blocks/4/value/images/11/image.webp
+          altTag: Remodel and Additions
+        - image: /src/assets/images/home/blocks/4/value/images/12/image.webp
           altTag: Stairway remodel
   - discriminant: reviewsSlider
     value:
