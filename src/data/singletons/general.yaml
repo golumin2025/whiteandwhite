@@ -3,7 +3,7 @@ logo:
   logo: /src/assets/images/general/logo/logo.webp
   favicon: /src/assets/images/general/logo/favicon.webp
   footerLogo: /src/assets/images/general/logo/footerLogo.webp
-primaryColor: 255, 215, 0
+primaryColor: "238,178,61\t"
 secondaryColor: 255, 215, 0
 tertiaryColor: 255, 215, 0
 backgroundColor: 255, 215, 0
