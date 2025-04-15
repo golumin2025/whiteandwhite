@@ -15,6 +15,9 @@ blocks:
   - discriminant: serviceAreas
     value:
       title: Services
+      sectionTitle: >-
+        Catering to local homeowners seeking to increase the value of their
+        home. 
       linkableLocations: true
       locations:
         - title: Additions
