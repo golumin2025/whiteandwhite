@@ -44,14 +44,6 @@ blocks:
         label: Get a quote
         link: /#quote-form
       colors: '#0069e5/5'
-  - discriminant: featuredImage
-    value:
-      image: /src/assets/images/accessory-dwelling-unit/blocks/2/value/image.webp
-      altTag: bathroom remodel
-      imagePosition: object-center
-      imagePositionDesktop: md:object-center
-      title: Why Build an ADU?
-      description: "With high rental demand and low interest rates, ADUs provide homeowners with an excellent return on investment. Whether you’re looking for extra rental income, a space for family members, or an increase in property value, an ADU is a smart addition to your home.\n\nExample ADU Investment Breakdown:\n\t•\tSize: 600 sq. ft. addition\n\t•\tTotal Cost: $150,000 (including plans, permits, fees, and construction)\n\t•\tEstimated Rental Income: $1,500/month\n\t•\tMonthly Mortgage Payment: $1,152/month\n\t•\tProfit After Expenses: $348/month\n\t•\tAnnual Return: $4,176/year (excluding vacancies)\n\nWith this model, an ADU can provide a steady income stream while covering its own financing costs—making it a smart financial decision for many homeowners."
   - discriminant: serviceAreas
     value:
       title: Our Construction Services
@@ -91,6 +83,18 @@ blocks:
       button:
         title: Get a Quote Today
         link: /#quote-form
+  - discriminant: twoCol
+    value:
+      heading: Why Build an ADU?
+      image: /src/assets/images/accessory-dwelling-unit/blocks/3/value/image.webp
+      altTag: bathroom remodel
+      imagePlacement: right
+      imageSize: h-[500px]
+      description: "With high rental demand and low interest rates, ADUs provide homeowners with an excellent return on investment. Whether you’re looking for extra rental income, a space for family members, or an increase in property value, an ADU is a smart addition to your home.\n\nExample ADU Investment Breakdown:\n•\tSize: 600 sq. ft. addition\n•\tTotal Cost: $150,000 (including plans, permits, fees, and construction)\n•\tEstimated Rental Income: $1,500/month\n•\tMonthly Mortgage Payment: $1,152/month\n•\tProfit After Expenses: $348/month\n•\tAnnual Return: $4,176/year (excluding vacancies)\n\nWith this model, an ADU can provide a steady income stream while covering its own financing costs—making it a smart financial decision for many homeowners.\n"
+      button:
+        label: Get a quote
+        link: /#quote-form
+      colors: '#0069e5/5'
   - discriminant: protectionConvenience
     value:
       title: Why Choose White and White Construction?
