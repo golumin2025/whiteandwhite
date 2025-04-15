@@ -30,3 +30,10 @@ blocks:
         **Contractor #B452379**
       button: {}
       colors: '#0069e5/5'
+  - discriminant: reviewsSlider
+    value:
+      title: Reviews
+      logos:
+        - image: /src/assets/images/contact-us/blocks/2/value/logos/0/image.webp
+        - image: /src/assets/images/contact-us/blocks/2/value/logos/1/image.webp
+        - image: /src/assets/images/contact-us/blocks/2/value/logos/2/image.webp
