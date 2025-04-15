@@ -1,0 +1,190 @@
+title: ADU
+seoData:
+  seoTitle: Affordable ADU Construction in Orange County  | White and White Construction
+  seoDescription: >-
+    Build an Accessory Dwelling Unit (ADU) in Orange County with White and White
+    Construction. Increase property value & rental income with expert planning,
+    permits, and construction. Call today for a free consultation!
+blocks:
+  - discriminant: singleHero
+    value:
+      bgImage: /src/assets/images/accessory-dwelling-unit/blocks/0/value/bgImage.webp
+      title: ADU Construction in Orange County
+  - discriminant: twoCol
+    value:
+      heading: Build an Accessory Dwelling Unit (ADU) & Maximize Your Property’s Value
+      image: /src/assets/images/accessory-dwelling-unit/blocks/1/value/image.webp
+      altTag: Remodel and additions
+      imagePlacement: left
+      imageSize: h-[500px]
+      description: >
+        ## Unlock the Potential of Your Home with an ADU
+
+
+        A new California law allows most single-family residences to add an
+        Accessory Dwelling Unit (ADU), effectively transforming a property into
+        a multi-unit investment. This law aims to combat California’s housing
+        crisis by making homeownership more affordable and creating new rental
+        opportunities.
+
+
+        ### Full-Service ADU Construction – From Planning to Completion
+
+
+        At White and White Construction, we handle everything from start to
+        finish:
+
+        ✅ Plans & Permits – We navigate city regulations and secure all
+        necessary approvals.
+
+        ✅ Expert Construction – Quality craftsmanship from foundation to finish.
+
+        ✅ Financing Assistance – Guidance to help you explore funding options.
+      button:
+        label: Get a quote
+        link: /#quote-form
+      colors: '#0069e5/5'
+  - discriminant: featuredImage
+    value:
+      image: /src/assets/images/accessory-dwelling-unit/blocks/2/value/image.webp
+      altTag: bathroom remodel
+      imagePosition: object-center
+      imagePositionDesktop: md:object-center
+      title: Why Build an ADU?
+      description: "With high rental demand and low interest rates, ADUs provide homeowners with an excellent return on investment. Whether you’re looking for extra rental income, a space for family members, or an increase in property value, an ADU is a smart addition to your home.\n\nExample ADU Investment Breakdown:\n\t•\tSize: 600 sq. ft. addition\n\t•\tTotal Cost: $150,000 (including plans, permits, fees, and construction)\n\t•\tEstimated Rental Income: $1,500/month\n\t•\tMonthly Mortgage Payment: $1,152/month\n\t•\tProfit After Expenses: $348/month\n\t•\tAnnual Return: $4,176/year (excluding vacancies)\n\nWith this model, an ADU can provide a steady income stream while covering its own financing costs—making it a smart financial decision for many homeowners."
+  - discriminant: serviceAreas
+    value:
+      title: Our Construction Services
+      linkableLocations: true
+      locations:
+        - title: Additions
+          link: /additions
+        - title: ADU
+          link: /accessory-dwelling-unit
+        - title: Carpentry
+          link: /carpentry
+        - title: Custom Carpentry
+          link: /custom-carpentry
+        - title: Custom Homes
+          link: /custom-homes
+        - title: Decks & Patios
+          link: /decks-patios
+        - title: Design Build
+          link: /design-build
+        - title: Door & Window Installation
+          link: /door-window-installation
+        - title: Finish Carpentry
+          link: /finish-carpentry
+        - title: Foundations
+          link: /foundations
+        - title: Framing
+          link: /framing
+        - title: Home Improvements
+          link: /home-improvements
+        - title: Remodels
+          link: /remodels
+        - title: Renovations
+          link: /renovations
+        - title: Siding
+          link: /siding
+      colTwoTitle: Submit a Quote! or Call Us!
+      button:
+        title: Get a Quote Today
+        link: /#quote-form
+  - discriminant: protectionConvenience
+    value:
+      title: Why Choose White and White Construction?
+      cards:
+        - icon: >-
+            /src/assets/icons/accessory-dwelling-unit/blocks/4/value/cards/0/icon.png
+          title: Family-Owned & Operated Since 1984
+          description: Three generations of trusted builders.
+        - icon: >-
+            /src/assets/icons/accessory-dwelling-unit/blocks/4/value/cards/1/icon.png
+          title: Proven Experience
+          description: Specializing in custom home additions, renovations, and ADUs.
+        - icon: >-
+            /src/assets/icons/accessory-dwelling-unit/blocks/4/value/cards/2/icon.png
+          title: Commitment to Quality
+          description: We hold ourselves to the highest standards of workmanship.
+        - icon: >-
+            /src/assets/icons/accessory-dwelling-unit/blocks/4/value/cards/3/icon.png
+          title: Exceptional Service
+          description: Polite, professional, and respectful of your home.
+  - discriminant: cards
+    value:
+      title: Start Your ADU Project Today!
+      numberOfColumns: '4'
+      cards:
+        - title: Fully Licensed, Certified & Insured
+          description: >
+            Your home is one of your biggest investments—and we treat it that
+            way. Our team is fully licensed, bonded, and insured, giving you
+            peace of mind that your project is in expert hands from start to
+            finish.
+        - title: Local Experts, You Can Trust
+          description: >
+            We're proud to be a locally owned and operated business right here
+            in Orange County. Because we live and work in the same community, we
+            go the extra mile to take care of our neighbors.
+        - title: Honest, Upfront Pricing
+          description: >
+            We believe great customer service starts with clear communication.
+            That’s why we provide straightforward pricing before the work
+            begins—so you’ll never be caught off guard by unexpected costs.
+        - title: Quality Craftsmanship, Every Step of the Way
+          description: >
+            At VCI Builds, we believe your home improvement experience should be
+            as solid as the work itself. That’s why we’ve built our reputation
+            on doing things the right way—no shortcuts, no compromises. From
+            concept to completion, our team delivers high-quality craftsmanship
+            and personalized service tailored to your vision.
+
+
+            We take pride in supporting our local community with exceptional
+            service and results that last. Ready to get started? Let’s talk
+            about how we can help bring your ideas to life.
+  - discriminant: masonaryGallery
+    value:
+      title: Our Images
+      images:
+        - image: >-
+            /src/assets/images/accessory-dwelling-unit/blocks/6/value/images/0/image.webp
+          altTag: Custom Homes 1
+        - image: >-
+            /src/assets/images/accessory-dwelling-unit/blocks/6/value/images/1/image.webp
+          altTag: Living room remodel
+        - image: >-
+            /src/assets/images/accessory-dwelling-unit/blocks/6/value/images/2/image.webp
+          altTag: Custom Homes 2
+        - image: >-
+            /src/assets/images/accessory-dwelling-unit/blocks/6/value/images/3/image.webp
+          altTag: Living room remodel with fire place and stairs
+        - image: >-
+            /src/assets/images/accessory-dwelling-unit/blocks/6/value/images/4/image.webp
+          altTag: Custom Homes 3
+        - image: >-
+            /src/assets/images/accessory-dwelling-unit/blocks/6/value/images/5/image.webp
+          altTag: Kitchen remodel
+        - image: >-
+            /src/assets/images/accessory-dwelling-unit/blocks/6/value/images/6/image.webp
+          altTag: Exterior remodel
+        - image: >-
+            /src/assets/images/accessory-dwelling-unit/blocks/6/value/images/7/image.webp
+          altTag: Custom Homes 7
+        - image: >-
+            /src/assets/images/accessory-dwelling-unit/blocks/6/value/images/8/image.webp
+          altTag: Bathroom remodel
+        - image: >-
+            /src/assets/images/accessory-dwelling-unit/blocks/6/value/images/9/image.webp
+          altTag: Accessory Dwelling Unit
+        - image: >-
+            /src/assets/images/accessory-dwelling-unit/blocks/6/value/images/10/image.webp
+          altTag: Remodel and Additions
+        - image: >-
+            /src/assets/images/accessory-dwelling-unit/blocks/6/value/images/11/image.webp
+          altTag: Stairway remodel
+  - discriminant: reviewsSlider
+    value:
+      title: Hear from our customers
+      logos: []
