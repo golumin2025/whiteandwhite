@@ -1,0 +1,12 @@
+title: Blog
+seoData:
+  seoTitle: 'White & White Construction Blog: Home Improvement Tips'
+  seoDescription: >-
+    Explore the White & White Construction Inc. blog for expert tips, guides,
+    and articles on home additions, remodels, custom homes, carpentry, and more
+    in San Clemente, CA.
+blocks:
+  - discriminant: singleHero
+    value:
+      bgImage: /src/assets/images/blog/blocks/0/value/bgImage.jpg
+      title: Blog
